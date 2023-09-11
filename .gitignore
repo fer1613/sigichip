@@ -2,4 +2,6 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/SIGIC/SIGIC/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+/SIGIC/SIGIC/obj/Debug
+/SIGIC/.vs/SIGIC/v15
+/SIGIC/SIGIC/bin/Debug
